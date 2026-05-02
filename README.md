@@ -175,7 +175,7 @@ Building real AI products — not just tutorials.
 
 I'm actively looking for opportunities in AI development,  
 frontend engineering, and product-driven tech roles.  
-Let's connect → [LinkedIn](https://www.linkedin.com/in/nil-kumar-bhadani-a57a10376/) · [GitHub](#)
+Let's connect → [LinkedIn](https://www.linkedin.com/in/nil-kumar-bhadani-a57a10376/) · [GitHub](https://github.com/nilkumarbhadani)
 
 ---
 
