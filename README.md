@@ -157,6 +157,20 @@ no backend server needed. Open it, type your budget, and try it yourself.
 
 ---
 
+## 📋 Assignment Submission Report
+
+This project was built as part of a university assignment at IIT Jodhpur.
+The full submission report includes:
+- Complete flow design breakdown
+- Prompt engineering decisions
+- Use case clarity & target users
+- UI/UX documentation
+- Live demo screenshots
+- Evaluation criteria coverage
+
+🔗 **[View Full Submission Report → https://nilkumarbhadani.github.io/lapwise-ai-laptop-recommendation-assistant/](https://nilkumarbhadani.github.io/lapwise-ai-laptop-recommendation-assistant/)**
+
+
 ## ⚠️ Disclaimer
 
 NilBot is an AI-powered assistant built for academic and educational purposes  
